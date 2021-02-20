@@ -27,3 +27,5 @@ class Value {
         this.value = value;
     }
 }
+// Object 클래스의 equals메소드는 객체의 주소값을 비교함.
+// String 클래스의 equals()는 Object클래스의 equals()를 오버라이드 한 것.
